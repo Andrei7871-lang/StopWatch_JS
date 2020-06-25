@@ -3,13 +3,13 @@ let isPaused = false, isRunning = false;
 
 
 function start(){
-    
+    //pang start
 }
 
 function resume(){
-
+    //pang resume kung naka pause
 }
 
 function reset(){
-
+    //pang reset
 }
